@@ -1,0 +1,13 @@
+{
+  "root":{
+    "listMain":{
+      "list":[
+        { "year_smt":"2020\/1학기", "dept_alias":"컴퓨터공학과", "curi_class":"004118-002", "dept_cd":"3210", "curi_no":"004118", "class":"002", "curi_nm":"디지털시스템", "lesn_cdt_yn":"", "orgn_clsf_cd":"20", "year":"2020", "smt_cd":"10", "curi_type_cd_nm":"전필", "cdt":"3.0", "time_all":"월수13:00-15:00(문승빈\/센B202)", "orgn_clsf_nm":"학부", "lesn_req_yn":"", "re_curi_yn":"Y", "cyber_type_nm":"", "cyber_type_cd":"", "cancel_yn":"", "crud_txt":"", "del_ckb":""},
+        { "year_smt":"2020\/1학기", "dept_alias":"컴퓨터공학과", "curi_class":"006237-003", "dept_cd":"3210", "curi_no":"006237", "class":"003", "curi_nm":"웹프로그래밍", "lesn_cdt_yn":"", "orgn_clsf_cd":"20", "year":"2020", "smt_cd":"10", "curi_type_cd_nm":"전선", "cdt":"3.0", "time_all":"화목15:00-16:30(안용학\/센B201)", "orgn_clsf_nm":"학부", "lesn_req_yn":"", "re_curi_yn":"", "cyber_type_nm":"", "cyber_type_cd":"", "cancel_yn":"", "crud_txt":"", "del_ckb":""},
+        { "year_smt":"2020\/1학기", "dept_alias":"컴퓨터공학과", "curi_class":"007219-002", "dept_cd":"3210", "curi_no":"007219", "class":"002", "curi_nm":"데이터베이스", "lesn_cdt_yn":"", "orgn_clsf_cd":"20", "year":"2020", "smt_cd":"10", "curi_type_cd_nm":"전선", "cdt":"3.0", "time_all":"화목10:30-12:00(신동일\/센B103)", "orgn_clsf_nm":"학부", "lesn_req_yn":"", "re_curi_yn":"", "cyber_type_nm":"", "cyber_type_cd":"", "cancel_yn":"", "crud_txt":"", "del_ckb":""},
+        { "year_smt":"2020\/1학기", "dept_alias":"컴퓨터공학과", "curi_class":"009959-001", "dept_cd":"3210", "curi_no":"009959", "class":"001", "curi_nm":"확률통계및프로그래밍", "lesn_cdt_yn":"", "orgn_clsf_cd":"20", "year":"2020", "smt_cd":"10", "curi_type_cd_nm":"전선", "cdt":"3.0", "time_all":"월수16:30-18:00(문승빈\/센B202)", "orgn_clsf_nm":"학부", "lesn_req_yn":"", "re_curi_yn":"", "cyber_type_nm":"", "cyber_type_cd":"", "cancel_yn":"", "crud_txt":"", "del_ckb":""},
+        { "year_smt":"2020\/1학기", "dept_alias":"컴퓨터공학과", "curi_class":"009952-002", "dept_cd":"3210", "curi_no":"009952", "class":"002", "curi_nm":"자료구조및실습", "lesn_cdt_yn":"", "orgn_clsf_cd":"20", "year":"2020", "smt_cd":"10", "curi_type_cd_nm":"전필", "cdt":"4.0", "time_all":"월수15:00-16:30,수18:00-20:00(국형준\/센B209, 센B203)", "orgn_clsf_nm":"학부", "lesn_req_yn":"", "re_curi_yn":"Y", "cyber_type_nm":"", "cyber_type_cd":"", "cancel_yn":"", "crud_txt":"", "del_ckb":""}
+      ]
+    }
+  }
+}
