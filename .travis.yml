@@ -1,0 +1,8 @@
+language: node_js
+node_js:
+  - 'v14.15.0'
+before_install:
+  - npm install -g typescript
+branches:
+  only:
+    - master
