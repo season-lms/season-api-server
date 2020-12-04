@@ -8,7 +8,7 @@ branches:
     - main
 before_deploy:
   - rm -rf node_modules
-  - zip -r nest-app
+  - zip -r nest-app *
   - mkdir -p deploy
   - mv nest-app.zip deploy/nest-app.zip
 deploy:
