@@ -5,7 +5,7 @@ before_install:
   - npm install -g typescript
 branches:
   only:
-    - master
+    - main
 notifications:
   slack:
     secure: U/TbpBd3sFlJhjsIuQ4WCfUkfGPE/InEEGSVeH88j8O/K9SGybYtfEEsVcfRFdmbA9bLC3GbWn2L8xptPj/u8+pg7Bqt6BEATj/3uEBes80ckM4cK1y3k12Dd9ebKU4hmwM9CCdbG+ShqGqaZ2YrtCeLLGrNo8Dcf3qQVjJ7f7sTSHaKm+pc0YTlJIBSj3Ohi6mqn6eJy6D93i4kWRi/o2LkKblFztTHKm5Stn3ztkc0CYzz6HcTHH7tqVgI/f3uMwM+YNeoaBu2yChvckBYv3UjetpRI4L4EJmN0AI0tonSLNFBbVTJouwcvZb2m8bQV2i3NYK8fJ1+ZGWkazmrzj7X23Unfz3JgVAYWQ1w0DLrJK2T67KZLSjmiIZMYdPnATD0FD+3Q0TSHFoZSf9VTBzAy7MaaJgH2kHHkpNvFUP5WADe5/NX5KS9u/D4aFu18vnOuh7CniMPKgaHTJkqZa/FAh9X5cSuhvh3ARcRocFx/wFUtsFuIiVavPzJCr2KBqhq5fi9jGIofRE9ocKV7Gd3lF7IRLG9iGxPjYEsjlj5xmFALoY8sYod+Pe7R9xkc1DT6XmXKXNH0N7L8rdGURghyILRYOKwNbUYNyk+inMkGe04MgJ60O/0Pz4S//TrNucVcFibYuopXs6CCTJAb9hg6OIk6zUwCoByo26imgE=
