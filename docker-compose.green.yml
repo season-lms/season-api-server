@@ -1,0 +1,22 @@
+version: '3'
+
+volumes:
+  nest_node_modules: {}
+
+services:
+  nest:
+    build: .
+    image: app
+    ports:
+      - '3002:3000'
+    volumes:
+      - .:/usr/src/app
+    environment:
+      - HTTP_PORT=3000
+
+      - MONGODB_URI=mongodb+srv://cluster0.gpbuo.mongodb.net/lms?retryWrites=true&w=majority
+      - MONGODB_USER=notjustmoney
+      - MONGODB_PASS=M3FbRyIE2o1LEcMf
+
+      - S3_ACCESS_KEY=AKIAVNVHRL7HVKUYF7N2
+      - S3_SECRET_KEY=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
